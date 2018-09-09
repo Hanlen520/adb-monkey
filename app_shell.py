@@ -1,7 +1,6 @@
-# encoding: utf-8
-
+# -*- coding: utf-8 -*-
+# @Author  : hanzilong
 import  platform,subprocess,re,os
- 
 # os.popen(cmdd).read()
 cmds=subprocess.call('adb connect 127.0.0.1:62001')
 # print(cmds)

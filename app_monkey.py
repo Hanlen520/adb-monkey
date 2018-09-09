@@ -1,7 +1,6 @@
-# encoding: utf-8
-
+# -*- coding: utf-8 -*-
+# @Author  : hanzilong
 import os
-
 component="com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.main.MainActivity"
 packagename="com.ss.android.ugc.aweme"
 # adb shell monkey -p com.jiochat.jiochatapp --throttle 100 --ignore-crashes --ignore-timeouts --ignore-security-exceptions --ignore-native-crashes --monitor-native-crashes -v -v -v 1000000>d:\b.log
